@@ -1,7 +1,7 @@
 # Dylan Oshima `README` (v2.2) 
 
 <!--
-**dylanOshima/dylanOshima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dylanOshima/dylanOshima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Welcome 👋! I'm Dylan (pronouns: he/him/his) and I am a software engineer currently studying CS & AI in the University of Edinuburgh. I am fascinated by web technology and Javascript. I am working to be an expert in building performant, data driven design (3D) webapps. My ultimate goal is to end poverty in the Philippines.
 
