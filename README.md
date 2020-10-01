@@ -21,7 +21,7 @@ I am currently working as a Frontend Engineering Intern at Facebook. After I wil
 * Speaks English and a bit of Japanese and Tagalog.
 
 ## Background 🌱
-Born and raised in Manila, Philippines. I spent a year in Bangkok, Thailand for my freshman year of highschool, and then finished my last three years in Karuizawa, Japan. I went to Edinburgh, Scotland for Uni, and did a year abroad in Sant Cruz, Japan.
+Born and raised in Manila, Philippines. I spent a year in Bangkok, Thailand for my freshman year of highschool, and then finished my last three years in Karuizawa, Japan. I went to Edinburgh, Scotland for Uni, and did a year abroad in Sant Cruz, California.
 
 ## Dependencies (e.g. things I need to run)
 **Travelling** is one of my favorite ways to spend my time. I'm a bit of an introvert and I think the best way to improve is through stress tests. Also I love food and nothing beats home cooking.
