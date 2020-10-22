@@ -5,7 +5,7 @@
 
 Welcome 👋 ! I'm Dylan (pronouns: he/him/his) and I am a software engineer currently studying CS & AI in the University of Edinuburgh. I am fascinated by web technology and Javascript. I am working to be an expert in building performant, data driven design (3D) webapps. My ultimate goal is to end poverty in the Philippines.
 
-I am currently working as a Frontend Engineering Intern at Facebook. After I will be finishing my final year in Scotland. My side project is [LogY](https://devpost.com/software/logy), a tool for intuitive and efficient memorization of information.
+My side project is [LogY](https://devpost.com/software/logy), a tool for intuitive and efficient memorization of information.
 
 ## Features ✨
 * Able to build with modern web stack. Experience with: 
